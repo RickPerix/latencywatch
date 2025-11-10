@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LatencyWatch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LatencyWatch_jar</output-path>
+    <root id="archive" name="LatencyWatch.jar">
+      <element id="module-output" name="LatencyWatch" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/LICENSE.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/README.txt" />
+    </root>
+  </artifact>
+</component>

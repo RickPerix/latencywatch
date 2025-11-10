@@ -1,0 +1,17 @@
+# =====================================
+# 📶 LATENCYWATCH CONFIGURATION FILE
+# =====================================
+# Basic configuration for ping monitoring and command access
+# Plugin version: 1.2 – by RickPerix
+
+# -----------------------------
+# ⚙️ CORE PLUGIN SETTINGS
+# -----------------------------
+latencywatch:
+  # Whether LatencyWatch is active globally
+  enabled: true
+
+  # List of players excluded from ping evaluation
+  # These players will NOT receive ping feedback or be listed in /pinglist
+  excluded-players:
+    - "ExampleUser"

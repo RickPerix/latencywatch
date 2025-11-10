@@ -1,0 +1,37 @@
+name: LatencyWatch
+version: 1.2
+main: me.rickperix.latencywatch.Main
+api-version: 1.18
+author: RickPerix
+
+commands:
+  ping:
+    description: Shows the ping of a specific player.
+    usage: /ping <player>
+    permission: latencywatch.ping
+    permission-message: You do not have permission to use this command.
+
+  pinglist:
+    description: Lists the ping of all online players.
+    usage: /pinglist
+    permission: latencywatch.pinglist
+    permission-message: You do not have permission to use this command.
+
+  latencywatchreload:
+    description: Reloads the plugin configuration.
+    usage: /latencywatchreload
+    permission: latencywatch.reload
+    permission-message: You do not have permission to use this command.
+
+permissions:
+  latencywatch.ping:
+    description: Allows use of /ping
+    default: true
+
+  latencywatch.pinglist:
+    description: Allows use of /pinglist
+    default: true
+
+  latencywatch.reload:
+    description: Allows use of /latencywatchreload
+    default: op
