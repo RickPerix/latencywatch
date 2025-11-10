@@ -38,7 +38,7 @@ Whether you're troubleshooting a lag spike, checking your own connection, or mon
 
 ## 📄 License & Support
 
-This project is released under the MIT License
+This project is released under the [MIT License](https://github.com/RickPerix/latencywatch/blob/main/LICENSE)
 
 Need help or want to report an issue? Reach out on Discord: `https://discord.gg/b4MFEa7tkP`
 
