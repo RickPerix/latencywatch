@@ -46,5 +46,5 @@ Need help or want to report an issue? Reach out on Discord: `https://discord.gg/
 
 Crafted with care by **RickPerix** 🛠
 
-Enjoy LatencyWatch!
+Enjoy LatencyWatch!   
 **Simple. Smart. Stable.**
