@@ -29,7 +29,7 @@ Whether you're troubleshooting a lag spike, checking your own connection, or mon
 
 ## ✅ Tested & Supported
 
-- 🧩 Works with Paper, Spigot, Purpur, and Bukkit
+- 🧩 Works with Paper, Spigot, Purpur, Bukkit, Folia, BugeeCord, Velocity and Waterfall
 - 🧪 Fully tested on Minecraft `1.18+`
 - ☕ Requires **Java 17 or higher**
 - 🔁 Plug, reload, monitor, no restart required
